@@ -1,0 +1,15 @@
+U need to connect databse from folder to the project
+
+
+Here you have login data
+
+Email: 
+a@gmail.com
+b@gmail.com
+c@gmail.com
+d@gmail.com
+e@gmail.com
+f@gmail.com
+g@gmail.com
+
+password: _Qwert1
